@@ -1,0 +1,15 @@
+myapp:
+    applicationName: debutApp
+    version: 2.5
+    serverUrl: http://kira/com
+    serverName: kira
+    countries:
+        - Ethiopia
+        - France
+        - Germany
+        - Spain
+    user:
+        firstname: Frank
+        lastname: Brown
+        username: MadMan23
+        password: fsdigh946
